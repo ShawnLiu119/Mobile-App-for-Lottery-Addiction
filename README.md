@@ -3,4 +3,3 @@ In this project, we are going to contribute to the development of a mobile app b
 
 The data could be found here
 https://www.kaggle.com/datascienceai/lottery-dataset#649.csv
-
